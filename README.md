@@ -1,2 +1,4 @@
-# AdventOfCode2016
-AdventOfCode2016 solutions.
+# Advent Of Code 2016
+=================================================
+
+Sauce: http://adventofcode.com/2016
